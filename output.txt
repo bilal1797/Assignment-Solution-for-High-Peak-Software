@@ -1,0 +1,10 @@
+The goodies for distribution: 
+Fitbit Plus: 8000
+IPods: 22349
+Cult Pass: 2799
+Digital Camera: 11101
+Alexa: 9999
+Sandwich Toaster: 2195
+Microwave Oven: 9800
+Scale: 5000
+The difference between the chosen goodie with highest price and the lowest price is 20154
